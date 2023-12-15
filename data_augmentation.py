@@ -3,6 +3,8 @@ import torchvision
 
 
 '''
+https://pytorch.org/vision/stable/transforms.html
+
 v2.Compose(transforms)
 Composes several transforms together.
 
